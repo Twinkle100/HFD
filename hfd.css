@@ -1,0 +1,45 @@
+
+        *{
+            margin: 0px;
+            padding:0px;
+        }
+        body{
+            background-image: url("https://i.pinimg.com/originals/b2/64/dc/b264dc6972609c40b7d92c92982737ad.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    
+        h2{
+            margin-top: 150px;
+            font-family:'Dancing Script', cursive;
+            font-weight: bolder;
+            font-size: 100px;
+            color:#aee6e6;
+            text-align: center;
+        }
+        h4{
+            margin-top: 20px;
+            font-family: 'Dancing Script', cursive;
+;
+            font-weight: bolder;
+            font-size: 50px;
+            color:#e05297;
+            text-align: center;
+        }
+        button{
+            width: 100px;
+            height: 40px;
+           background-color:yellow;
+           text-decoration: none;
+           margin-left: 620px;
+           margin-top: 20px;
+           border-radius: 10px;
+           font-weight: bold;
+        }
+        button:hover{
+            background-color: aqua;
+        
+        }
+        button a{
+            text-decoration: none;
+        }

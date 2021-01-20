@@ -1,0 +1,66 @@
+
+        body{
+            background-image: url("https://wallpaperaccess.com/full/673955.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+             }
+            
+             .paragraph{
+              /* color:#af0069;
+              color: #e27802;
+              color: #6a492b;
+              color: #54e346; */
+              color: #892cdc;
+                 font-weight: 100px;
+                 font-family:'Dancing Script', cursive;
+                 font-size: 25px;
+                
+             }
+           #p1{
+                 margin-top: 115px;
+                 margin-left: 330px;
+                 margin-right: 600px;
+            
+             }
+           #p2{
+                 
+                 margin-top: 50px;
+                 margin-left: 700px;
+                 margin-right:0px;
+            
+             }
+           #p3{
+                 
+                 margin-top: 53px;
+                 margin-left:0px;
+                 margin-right: 600px;
+            
+             }
+           #p4{
+                 
+                 margin-top:20px;
+                 margin-left:690px;
+                 margin-right:0px;
+            
+             }
+           #p5{
+                 
+                 margin-top:0px;
+                 margin-left: 300px;
+                 margin-right:600px;
+            
+             }
+           #p6{
+                 
+                 margin-top: -25px;
+                 margin-left: 852px;
+                 margin-right:0px;
+            
+             }
+           #p7{
+                 
+                 margin-top:20px;
+                 margin-left: 250px;
+                 margin-right: 600px;
+            
+           }
